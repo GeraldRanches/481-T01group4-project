@@ -3,8 +3,10 @@
 ## Project Title
 
 * Title
-* Team Members (names, IDs)
-* Tutorial Number and TA
+* Adrian Bathan, 30011953
+* Farrah Urmeneta,
+* Gerald Ranches, 30003460
+* Tutorial 01, Kody Dillman
 
 ## Project Idea
 
