@@ -1,10 +1,10 @@
-# CPSC 481 - Tutorial [X] - Group [Y]
+# CPSC 481 - Tutorial [1] - Group [4]
 
 ## Project Title
 
 * Title
 * Adrian Bathan, 30011953
-* Farrah Urmeneta,
+* Farrah Urmeneta, 10127433
 * Gerald Ranches, 30003460
 * Tutorial 01, Kody Dillman
 
